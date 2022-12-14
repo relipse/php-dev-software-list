@@ -1,0 +1,24 @@
+Name,Price,Units,Per,Description,URL
+PHPStorm,199,USD,User/Year,PHP Integrated Development Environment,https://www.jetbrains.com/phpstorm/buy/#commercial
+DataGrip,199,USD,User/Year,Database Program,https://www.jetbrains.com/datagrip/buy/#commercial
+MySQL Workbench,0,,,Database Program,https://www.mysql.com/products/workbench/
+Regex Buddy,39.95,USD,User/Once,Regular Expression Data Filtering power tool,https://www.regexbuddy.com/index.html
+Notepad++,0,,,Notepad Power editor,https://notepad-plus-plus.org/downloads/
+Sublime Text,0,,,Another power editor,https://www.sublimetext.com/
+Git Bash,0,,,Tool for version control / SSH / bash on Windows (Not the same as GitHub),https://git-scm.com/
+Evernote,0,,,Note-taking program,https://evernote.com/
+Greenshot,0,,,Utility to take and capture screenshots and get portion of screen to share,https://getgreenshot.org/
+WSL (Windows Subsystem for Linux),0,,,Allows Linux onside with Windows used for Development,https://docs.microsoft.com/en-us/windows/wsl/about
+7-zip,0,,,"Extract files from zip files etc, (Works when Windows unzipping will not)",https://www.7-zip.org/
+AutoHotkey,0,,,Macros for Windows (Increase productivity 25%-30%),https://www.autohotkey.com/
+FileZilla,0,,,SFTP File Transfer,https://filezilla-project.org/
+WinSCP,0,,,SFTP File Transfer (no ads),https://winscp.net/eng/index.php
+Upscene Workbench Database Workbench Pro MySQL Edition,219,EUROS,User/Once,Database Program,https://www.upscene.com/purchase/
+HeidiSQL,0,,,Database Program,https://www.heidisql.com/
+RazorSQL,99.95,USD,User/Once,Database Program,https://razorsql.com/register.html
+LICEcap,0,,,Simple animated screen captures (.gif),https://www.cockos.com/licecap/
+Firefox,0,,,Web Browser,https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com
+Chrome,0,,,Web Browser,https://www.google.com/chrome/
+WinMerge,0,,,Diffing utility,https://winmerge.org/?lang=en
+Meld,0,,,Git Diffing and Merging utility,https://meldmerge.org/
+DB Browser,0,,,Sqlite Database Editor/Browser,https://sqlitebrowser.org/
